@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "muhriddin atc pilot",
+  "mongoUri": "mongodb+srv://telegram:telegramdb@cluster0.tiwae.mongodb.net/tel_bot",
+  "baseUrl": "http://localhost:5000"
+}
